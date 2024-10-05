@@ -10,6 +10,9 @@ A Flutter-based mobile application that uses Google Maps SDK to display maps and
 - Supports real-time location updates.
 - Fetch location details such as latitude and longitude.
 
+
+![App Screenshot 1](assets/screenshotLoc1.png) ![App Screenshot 2](assets/screenshotLoc2.png)
+
 ## Setup and Installation
 
 1. **Clone the repository**
